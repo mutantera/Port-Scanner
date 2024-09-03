@@ -28,7 +28,7 @@ Follow these steps to set up the Port Scanner Tool on your local machine:
    Clone this repository to your local machine using Git. Open your terminal or command prompt and run:
 
    ```bash
-   git clone https://github.com/yourusername/Port-Scanner.git
+   git clone https://github.com/mutantera/Port-Scanner.git
    ```
 
    This command copies the repository from GitHub to your computer.
@@ -116,13 +116,6 @@ This project is licensed under the MIT License. For more details, please refer t
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact me at [your email address] or open an issue on GitHub.
+If you have any questions or need assistance, feel free to contact me at sarvesh32717@gmail.com or open an issue on GitHub.
 
 Thank you for using the Port Scanner Tool!
-```
-
-**Instructions for Customization**:
-- **Replace** `yourusername` with your actual GitHub username in the clone URL.
-- **Replace** `[your email address]` with your actual contact email.
-
-Feel free to adjust or expand this README as needed!
